@@ -1,2 +1,0 @@
-# Jupy-Projects
-Jupyter Projets
